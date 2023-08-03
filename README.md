@@ -8,4 +8,4 @@
 
 4.프로젝트 참여도 : 100%
 
-5.홈페이지 바로가기 : https://sujinlove96.github.io/mozila/
+5.홈페이지 바로가기 : https://sujinlove96.github.io/hollys-main/
